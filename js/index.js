@@ -13,10 +13,10 @@ const items = [
 
 // id = ID artis di Spotify. img kosong = pakai inisial. Isi "img/nama.jpg" kalau foto udah ada.
 const artists = [
-  { name: "Dongker",      id: "20zafXaLhm5IcXnSU93rNn", img: "" },
-  { name: "Alkateri",     id: "6sf1OnuDZM48bgFQvPkbYm", img: "" },
-  { name: "Nadin Amizah", id: "0Y6dVaC9DZtPNH4591M42W", img: "" },
-  { name: "TV Girl",      id: "2FBPSDAcymnyELCoVKgTcf", img: "" }
+  { name: "Nadin Amizah",      id: "20zafXaLhm5IcXnSU93rNn", img: "" },
+  { name: "Dongker",     id: "6sf1OnuDZM48bgFQvPkbYm", img: "" },
+  { name: "Tv Girl", id: "0Y6dVaC9DZtPNH4591M42W", img: "" },
+  { name: "Alkateri",      id: "2FBPSDAcymnyELCoVKgTcf", img: "" }
 ];
 
 const $ = id => document.getElementById(id);
